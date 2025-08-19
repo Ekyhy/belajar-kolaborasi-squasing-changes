@@ -6,3 +6,8 @@ Hai, saya sedang mengikuti program belajar dicoding dengan materi pengenalan Git
 Testimuni dari pengguna *yahya*.
 Program asah 2025
 
+Tujuan dari belajar kolaborasi adalah :
+- Meningkatkan skill dalam mengorganisasi repository terutama ketika sedang bekerja sama dengan tim.
+- Membuat code yang dibuat dapat dikembakan di lain waktu.
+- Seabgai portofolio daripada seorang programmer
+
